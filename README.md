@@ -1,1 +1,2 @@
-# Correr
+# DINOSAURIO-
+JUEGO COMPLETO
